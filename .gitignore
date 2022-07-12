@@ -1,6 +1,8 @@
 rx-java-sample/.idea/
 rx-java-sample/.settings/
 rx-java-sample/.mvn/
+rx-java-sample/target/
 .settings/
 .idea/
 .mvn/
+target/
